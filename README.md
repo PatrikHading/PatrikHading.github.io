@@ -61,7 +61,7 @@
 
 ---
 
-## 🚀 Fun Projects & Contributions
+## 🚀 Projects
 
 <ul>
   <li><strong><a href="https://github.com/PatrikHading/BankApp">Project Name</a></strong>: BankApp.</li>
