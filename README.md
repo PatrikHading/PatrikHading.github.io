@@ -1,7 +1,6 @@
 # 🌟 Welcome to My GitHub Profile!
 
 <div align="center">
-  <img src="https://via.placeholder.com/150" alt="Your Name" style="border-radius: 50%;">
   <h2>Hi there! 👋 I'm <strong>Patrik Hading</strong></h2>
   <p><em>Currently studying Cloud Engineering AWS</em></p>
 </div>
