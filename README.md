@@ -54,8 +54,8 @@
 ## 📫 Get in Touch
 
 <p>
-  <strong>Email:</strong> <a href="mailto:hading@gmail.com">your-email@example.com</a> <br>
-  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/patrik-hading-577b56b2/" target="_blank">Your LinkedIn Profile</a> <br>
+  <strong>Email:</strong> <a href="mailto:hading@gmail.com">Contact me</a> <br>
+  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/patrik-hading-577b56b2/" target="_blank">LinkedIn Profile</a> <br>
   <strong>GitHub Pages:</strong> <a href="https://PatrikHading.github.io" target="_blank">Visit My Website</a>
 </p>
 
