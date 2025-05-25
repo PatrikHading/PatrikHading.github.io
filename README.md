@@ -23,7 +23,7 @@
 <table>
   <tr>
     <th>Languages</th>
-    <td>Java, SQL</td>
+    <td>Java, HTML, CSS, SQL</td>
   </tr>
   <tr>
     <th>Frameworks</th>
