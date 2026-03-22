@@ -64,6 +64,9 @@
 ## 🚀 Projects
 
 <ul>
+  <li><strong><a href="https://github.com/PatrikHading/flexapp">Project Name</a></strong>: FlexApp</li>
+  <li><strong><a href="https://github.com/PatrikHading/webutv">Project Name</a></strong>: WebUtvProject</li>
+  <li><strong><a href="https://github.com/PatrikHading/cloudutv-projekt">Project Name</a></strong>: CloudUtvProject</li>
   <li><strong><a href="https://github.com/PatrikHading/BankApp">Project Name</a></strong>: BankApp.</li>
 
 </ul>
